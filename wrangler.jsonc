@@ -1,0 +1,7 @@
+{
+  "name": "daili",
+  "main": "_worker.js",
+  "compatibility_date": "2026-01-20",
+  "keep_vars": true,
+  "kv_namespaces": [{ "binding": "C" }]
+}
